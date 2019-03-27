@@ -1,7 +1,7 @@
 # CreateAVideo
 AVFoundation to record the screen animation in a h264 mpg
 
-##BenchMark
+## Use
 
 There are two recording options.
 1. - Saving the video as frame sequence and rendering at the end
